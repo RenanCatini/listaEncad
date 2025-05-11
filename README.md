@@ -12,4 +12,14 @@ Para compilar qualquer um dos arquivos individualmente, use o comando abaixo no 
 
 ```bash
 gcc -o executavel arquivo.c
+```
+
+## Execução
+
+Para executar o arquivo desejado que foi compilado: 
+
+```bash
+./executavel
+```
+
 
