@@ -1,0 +1,5 @@
+#Ignorar executaveis
+*.exe
+*.out
+*.bin
+*.run
