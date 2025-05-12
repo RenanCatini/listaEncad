@@ -91,6 +91,8 @@ int menorCaminho(int numOfVert, int mat[numOfVert][numOfVert],int source, int ar
 }
 
 int main() {
+
+    
     int grafo1[VERTICES][VERTICES] = {
         {  0,  4,  2, -1, -1 }, // A
         {  4,  0,  5, 10, -1 }, // B
